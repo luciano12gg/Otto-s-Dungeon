@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ottos_Dungeon", "Ottos_Dungeon\Ottos_Dungeon.csproj", "{46F0F96D-F839-4340-8E25-B3FC81391CED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F0F96D-F839-4340-8E25-B3FC81391CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F0F96D-F839-4340-8E25-B3FC81391CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F0F96D-F839-4340-8E25-B3FC81391CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F0F96D-F839-4340-8E25-B3FC81391CED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
